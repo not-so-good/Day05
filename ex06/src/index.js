@@ -1,7 +1,7 @@
 function main(){
     //Only change code below this line
-    var myName = "Jerry"
-    var myString = "My name is " + myName + " and I am well!"
+    var myName = "Jerry";
+    var myString = "My name is " + myName + " and I am well!";
     //Only change code above this line 
     return myString;
 }
